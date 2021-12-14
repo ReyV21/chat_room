@@ -11,11 +11,6 @@ git clone https://github.com/ReyV21/chat_room
 
 ```
 
---> Move into the directory where we have the project files : 
-```bash
-cd chatroom
-```
-
 --> Create a virtual environment:
 ```bash
 python -m venv virtenv
@@ -30,7 +25,6 @@ activate
 ```bash
 cd ..
 cd ..
-cd chatroom
 ```
 
 --> Install the requirements :
